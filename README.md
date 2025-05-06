@@ -16,4 +16,4 @@ Although XAMPP is widely recognized and used around the world, it lacks certain 
    In contrast to XAMPP, every created workspace in JAPS comes with a default HTML or PHP file. As long as you name the file `index.html` or `index.php`, the program will automatically assign it as the default webpage, with PHP taking priority.
 
 4. **Custom Error Messages**  
-   You can create your own custom error messages for various HTTP status codes, such as 403, 404, 402, and 401.
+   You can create your own custom error messages for various HTTP status codes, such as 405, 403, 404, 402, and 401.
